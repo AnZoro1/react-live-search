@@ -1,0 +1,60 @@
+img {
+  width: 200px;
+  height: 150px;
+
+  margin-left: 70px;
+}
+.mainDiv {
+  display: flex;
+
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.imageNamePriceDiv {
+}
+.nameAndPriceLorem {
+  flex-direction: column;
+
+  width: 250px;
+}
+.productName {
+  margin-top: 30px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.productPrice {
+  margin-top: 30px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.namePriceButton {
+  display: flex;
+}
+.buttonDiv {
+  width: 80px;
+  height: 90px;
+}
+.button {
+  width: 70px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 45px;
+  background-color: white;
+  border: 2px solid blue;
+  color: blue;
+}
+hr {
+  margin-left: 50px;
+}
+.loremIpsum {
+  margin-left: 10px;
+}
+
+.button2 {
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 25px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+}
